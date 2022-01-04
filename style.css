@@ -15,7 +15,7 @@
 p{margin: 0;}
 .close-btn{padding: 10px;cursor: pointer;}
 .close-btn i{font-size: 20px;font-weight: 700;}
-.slide{position: absolute;top: 50%;transform: translateY(-50%); }
+.slide{position: absolute;top: 50%;transform: translateY(-50%); background: #000; width: 35px;height: 35px; text-align: center;line-height: 42px;border-radius: 5px; cursor: pointer;}
 .slide.next{right: 20px;}
 .slide.prev{left: 20px;}
 .slide i{font-size: 25px;font-weight: 600;color: #fff; cursor: pointer;}
